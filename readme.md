@@ -1,0 +1,2 @@
+# uploader_project
+Djangoのファイルアップロード機能を利用してみたプロジェクト  
